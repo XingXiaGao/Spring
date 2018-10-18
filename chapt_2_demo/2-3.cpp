@@ -63,7 +63,6 @@ int main()
 		cout << ptr[i] << " ";
 	}
 	delete[]ptr;
-
 	system("pause");
 	return 0;
 }
