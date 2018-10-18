@@ -65,4 +65,5 @@ int main()
 	delete[]ptr;
 	system("pause");
 	return 0;
+	
 }
